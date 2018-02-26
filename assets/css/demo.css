@@ -512,3 +512,20 @@
     top: 5em;
     left: 20em;
 }
+
+#vision {
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+}
+
+#log {
+    width: 7em;
+}
+
+.footer {
+    margin-top: 5em;
+}
+
+#subscribe {
+    font-family: 'Slabo 27px', serif;
+}

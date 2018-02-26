@@ -526,6 +526,23 @@
     margin-top: 5em;
 }
 
-#subscribe {
-    font-family: 'Slabo 27px', serif;
+.subscribe {
+    text-align: center;
+}
+
+#whatsapp {
+    margin: auto;
+}
+
+#sub {
+    width: 175px;
+}
+
+.sub2 {
+    width: 175px;
+}
+
+.subscribe h2 {
+    position: relative;
+    left: -1em;
 }
